@@ -78,11 +78,11 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 
 ## 📫 Connect With Me
 
-- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [https://wa.me/yourphonenumber](https://wa.me/yourphonenumber)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [https://wa.me/yourphonenumber](https://wa.me/qr/J6WAFJS2L6YQP1)
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/yourusername](https://in.linkedin.com/in/balan-b-43b15326a)
 
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [instagram.com/yourusername](https://instagram.com/yourusername)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [instagram.com/yourusername](https://www.instagram.com/_its_mystic_wave.path?igsh=YWV5NzlncG5oa2tr)
 
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [balanios11@gmail.com](mailto:balanios11@gmail.com)
 
