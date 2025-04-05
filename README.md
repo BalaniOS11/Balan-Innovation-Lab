@@ -78,7 +78,7 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 
 ## 📫 Connect With Me
 
-- ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) [github.com/yourusername](https://github.com/yourusername)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [https://wa.me/yourphonenumber](https://wa.me/yourphonenumber)
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 
