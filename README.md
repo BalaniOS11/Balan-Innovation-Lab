@@ -79,19 +79,12 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 ## 📫 Connect With Me
 
 - ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) [github.com/yourusername](https://github.com/yourusername)
+
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+
 - ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [twitter.com/yourusername](https://twitter.com/yourusername)
+
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [balanios11@gmail.com](mailto:balanios11@gmail.com)
-
-## 📫 Connect With Me
-
-## 📫 Connect With Me
-
-- **GitHub**: [![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/yourusername)
-- **LinkedIn**: [![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://linkedin.com/in/yourusername)
-- **Twitter**: [![Twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/yourusername)
-- **Email**: [![Email](https://img.icons8.com/ios/50/000000/gmail.png)](mailto:balanios11@gmail.com)
-
 
 ---
 
