@@ -83,10 +83,6 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 - Twitter: [twitter.com/yourusername](https://twitter.com/yourusername)
 - Email: [balanios11@gmail.com](mailto:balanios11@gmail.com)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Made with ❤️ by Balan B
