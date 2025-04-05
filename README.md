@@ -85,10 +85,13 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 
 ## 📫 Connect With Me
 
-- **GitHub**: ![GitHub](https://img.shields.io/static/v1?label=&message=&color=000000&logo=github&logoColor=white&style=flat-square)
-- **LinkedIn**: ![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=0A66C2&logo=linkedin&logoColor=white&style=flat-square)
-- **Twitter**: ![Twitter](https://img.shields.io/static/v1?label=&message=&color=1DA1F2&logo=twitter&logoColor=white&style=flat-square)
-- **Email**: ![Email](https://img.shields.io/static/v1?label=&message=&color=D14836&logo=gmail&logoColor=white&style=flat-square)
+## 📫 Connect With Me
+
+- **GitHub**: [![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/yourusername)
+- **LinkedIn**: [![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://linkedin.com/in/yourusername)
+- **Twitter**: [![Twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/yourusername)
+- **Email**: [![Email](https://img.icons8.com/ios/50/000000/gmail.png)](mailto:balanios11@gmail.com)
+
 
 ---
 
