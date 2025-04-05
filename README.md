@@ -78,10 +78,17 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 
 ## 📫 Connect With Me
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) [github.com/yourusername](https://github.com/yourusername)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [twitter.com/yourusername](https://twitter.com/yourusername)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [balanios11@gmail.com](mailto:balanios11@gmail.com)
+- ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) [github.com/yourusername](https://github.com/yourusername)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [twitter.com/yourusername](https://twitter.com/yourusername)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [balanios11@gmail.com](mailto:balanios11@gmail.com)
+
+## 📫 Connect With Me
+
+- **GitHub**: ![GitHub](https://img.shields.io/static/v1?label=&message=&color=000000&logo=github&logoColor=white&style=flat-square)
+- **LinkedIn**: ![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=0A66C2&logo=linkedin&logoColor=white&style=flat-square)
+- **Twitter**: ![Twitter](https://img.shields.io/static/v1?label=&message=&color=1DA1F2&logo=twitter&logoColor=white&style=flat-square)
+- **Email**: ![Email](https://img.shields.io/static/v1?label=&message=&color=D14836&logo=gmail&logoColor=white&style=flat-square)
 
 ---
 
