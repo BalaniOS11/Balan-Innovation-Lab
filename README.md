@@ -32,8 +32,6 @@ I'm a passionate iOS Developer with expertise in creating elegant and efficient 
 - Xcode
 - VS Code
 - CocoaPods
-- Fastlane
-- CI/CD
 
 ## 🎓 Education
 
